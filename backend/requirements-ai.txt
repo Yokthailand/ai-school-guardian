@@ -1,0 +1,4 @@
+-r requirements.txt
+
+# Compatibility wrapper retained for older setup instructions.
+# The MP4 application now installs YOLO/ByteTrack from requirements.txt.
